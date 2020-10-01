@@ -1,6 +1,8 @@
 # Description
 
-AWS - CloudFront + CloudWatch + CloudTrail + S3 + Route 53 + 
+AWS - CloudFront + CloudWatch + CloudTrail + S3 + Route 53 + HTTPS + SSL Certificate
+
+Check out the working website here!: www.szkolasakurami.com/
 
 School Sakurami is a Japanese language school situated in Poland and I've helped them by designing the webstie based on a paprt-kit-template
 and then hosted the website on AWS. The domain was initially purchased on Google Domain, so I configured the routing
